@@ -1,2 +1,2 @@
-# yatank-graphite
-Yandex.Tank plugin for sending aggregated data to Graphite or Influx (in Graphite protocol only) or KairosDB (the same)
+Graphite - плагин для яндекс танка, который имеет возможность сохранять данные в Influx с временной меткой данных.
+

@@ -1,0 +1,1 @@
+from plugin import GraphiteUploaderPlugin as yatank_GraphitePlugin
